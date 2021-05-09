@@ -1,3 +1,23 @@
+Version 1.1
+Hướng dẫn thực thi code
+- App học ngôn ngữ chạy tên hệ điều hành android
+- Sử dụng Android Studio để thực thi ứng dụng
++ Open folder an Existing Project
++ Chọn vị trí đã lưu project, chọn ProjectSE
++ Run project trên điện thoại giả lập có sẵn trên android hoặc điện thoại kết nối với android studio
+Phiên bản mới với các chức năng:
+Học từ vựng
+- Người dùng chọn trên thanh điều khiển sidebar của ứng dụng chọn tab học từ vựng sau đó được đưa đến 4 bộ từ vựng
+Người dùng chọn trong các bộ từ vựng sẽ hiển thị danh sách các từ và phần nghĩa người dùng xem các từ trong bộ đó
+sau đó chọn ôn tập để làm bài tập sắp xếp chữ theo từ đã học
+Sắp xếp câu
+Người dùng chọn trên thanh điều khiển, chọn tab sắp xếp câu, người dùng chọn một trong các bộ để sắp xếp theo thứ
+tự đúng của từng câu
+Xem thông tin và chỉnh sửa thông tin cá nhân
+Trên thanh sidebar người dùng chọn Thông tin cá nhân và được chuyển đến giao diện thông tin cá nhân tại đây người dùng
+có thể xem thông tin cá nhân và thay đổi thông tin gôm tên, email, số điện thoại và mật khẩu sau đó chọn button "Cập nhật"
+nếu cập nhật thanh công thì sẽ hiện ra thông báo cập nhật thành công nếu không thì hiện ra thông báo thất bại
+Version 1.0
 Hướng dẫn thực thi code
 - App học ngôn ngữ chạy tên hệ điều hành android
 - Sử dụng Android Studio để thực thi ứng dụng
