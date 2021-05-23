@@ -1,5 +1,5 @@
 Version 2.0
-Hướng dẫn thực thi code
+Hướng dẫn thực thi code:
 - App học ngôn ngữ chạy tên hệ điều hành android
 - Sử dụng Android Studio để thực thi ứng dụng
 + Open folder an Existing Project
@@ -17,7 +17,6 @@ Xem thông tin và chỉnh sửa thông tin cá nhân
 Trên thanh sidebar người dùng chọn Thông tin cá nhân và được chuyển đến giao diện thông tin cá nhân tại đây người dùng
 có thể xem thông tin cá nhân và thay đổi thông tin gôm tên, email, số điện thoại và mật khẩu sau đó chọn button "Cập nhật"
 nếu cập nhật thanh công thì sẽ hiện ra thông báo cập nhật thành công nếu không thì hiện ra thông báo thất bại
-
 
 Version 1.1
 Hướng dẫn thực thi code
