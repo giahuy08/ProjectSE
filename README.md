@@ -6,7 +6,7 @@
 * Huỳnh Nhựt Thiên - 18110203
 * Vũ Đức Tuấn - 18110231
 * Phạm Duy Lập - 18110143
-### Danh sách các yêu cầu của đề tài:
+#### Danh sách các yêu cầu của đề tài:
 * Học từ vựng
 * Điền khuyết từ
 * Luyện nghe
@@ -18,8 +18,9 @@
 * Thông tin tài khoản
 
 ### Hướng dẫn sử dụng
-# Preview
-:rocket: :rocket:
+## Preview
+:rocket: :rocket: :octocat:
 `Home`
-<img src="https://github.com/giahuy08/ProjectSE/blob/main/img/dashboard.png" width="300" height="500">
+
+![](Image/Home.png)
 
