@@ -19,13 +19,7 @@
 
 ### Hướng dẫn sử dụng
 # Preview
-`Login`
-
-<img src="https://github.com/giahuy08/ProjectSE/blob/main/img/login.png" width="300" height="400">
-
+:rocket: :rocket:
 `Home`
-
-<img src="https://github.com/giahuy08/ProjectSE/blob/main/img/home.png" width="300" height="400">
-
-<img src="https://github.com/giahuy08/ProjectSE/blob/main/img/dashboard.png" width="300" height="400">
+<img src="https://github.com/giahuy08/ProjectSE/blob/main/img/dashboard.png" width="300" height="500">
 
